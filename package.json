@@ -1,7 +1,7 @@
 {
-  "name": "nsemea-salestransaction-lib-poc",
+  "name": "nsemea-quote-lib-poc",
   "version": "1.0.1",
-  "description": "NSEMEA salestransaction library",
+  "description": "NSEMEA Quote library",
   "main": "none",
   "author": "Kevin MUTIMA",
   "license": "MIT",
@@ -26,7 +26,7 @@
     "fs-extra": "^11.2.0",
     "nsemea-address-lib-poc": "^1.0.10",
     "nsemea-core-poc": "^1.0.53",
-    "nsemea-salestransaction-lib-poc": "^1.0.2",
+    "nsemea-salestransaction-lib-poc": "^1.0.3",
     "sweetalert2": "^11.17.2"
   }
 }
