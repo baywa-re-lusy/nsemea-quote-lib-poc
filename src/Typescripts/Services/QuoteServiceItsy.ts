@@ -1,8 +1,8 @@
 import { QuoteService } from "./QuoteService";
-import { SalesTransactionServiceItsy } from "@nsemea_lib/Services/SalesTransactionServiceItsy";
+import { SalesTransactionMixinItsy } from "@nsemea_lib/Services/SalesTransactionMixinItsy";
 
 export class QuoteServiceItsy extends QuoteService{
 
 }
 
-Object.assign(QuoteServiceItsy, SalesTransactionServiceItsy);
+Object.assign(QuoteServiceItsy, SalesTransactionMixinItsy);
